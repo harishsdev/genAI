@@ -3,6 +3,8 @@
 
 https://python.langchain.com/api_reference/
 
+https://python.langchain.com/docs/integrations/retrievers/
+
 APIS RELATED INFORMATION
 
 import pkgutil
