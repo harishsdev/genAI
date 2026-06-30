@@ -19,3 +19,13 @@ https://github.com/GetStream/Vision-Agents/blob/main/agents-core/vision_agents/c
 https://github.com/picselliahq/atlas/tree/main
 
 
+
+
+
+
+project 2
+ E commerce product assistant
+ 
+ https://github.com/sunnysavita10/ecomm-prod-assistant.git
+ 
+ project 2 llmops in github
