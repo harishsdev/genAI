@@ -28,4 +28,4 @@ project 2
  
  https://github.com/sunnysavita10/ecomm-prod-assistant.git
  
- project 2 llmops in github
+ project 2 llmops pdf in github
