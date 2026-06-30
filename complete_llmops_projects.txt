@@ -1,0 +1,21 @@
+python:-https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
+
+ML:-https://www.youtube.com/watch?v=JxgmHe2NyeY
+
+nlp:-https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn
+
+genai:-https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh
+
+rag by savita:-https://www.youtube.com/playlist?list=PLQxDHpeGU14Blorx3Ps1eZJ4XvKET1_vx
+
+
+https://github.com/sunnysavita10/Generative-AI-Indepth-Basic-to-Advance/blob/main/RAG%20Pipeline%20from%20Scratch/RAG_From_Scratch.pdf
+
+
+https://github.com/landing-ai/vision-agent
+
+https://github.com/GetStream/Vision-Agents/blob/main/agents-core/vision_agents/core/llm/realtime.py
+
+https://github.com/picselliahq/atlas/tree/main
+
+
