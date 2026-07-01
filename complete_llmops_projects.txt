@@ -18,8 +18,40 @@ https://github.com/GetStream/Vision-Agents/blob/main/agents-core/vision_agents/c
 
 https://github.com/picselliahq/atlas/tree/main
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+Project 1
+
+https://github.com/sunnysavita10/document_portal/tree/main
+
+https://krishnaikacademy.notion.site/Software-Checklist-1f0eba9593d0804a8ab2cf17762d2b1b
+
+step1:-
+......
+
+# creates the virtual env in anaconda3 folder
+conda create -n docproj python==3.11 -y
+conda activate docproj
+conda deactivate
+conda remove -n docproj --all
+
+OR
+
+# creates the virtual env in current folder
+conda create -p venv_ur_name python==3.12 -y
+conda activate
+conda deactivate
+# Delete the folder venv_ur_name
+
+
+day3:-llmops01.pdf
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -28,4 +60,21 @@ project 2
  
  https://github.com/sunnysavita10/ecomm-prod-assistant.git
  
- project 2 llmops pdf in github
+ project 2 llmops in github
+ llmops 6
+ 
+ (myenv) PS H:\genaiprojects> uv --version
+uv 0.11.25 (1fc7de7c4 2026-06-26 x86_64-pc-windows-msvc)
+(myenv) PS H:\genaiprojects> python
+Python 3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import shutil
+>>> print(shutil.which("uv"))
+C:\Users\haris\.conda\envs\myenv\Scripts\uv.EXE
+ C:\Users\haris\.conda\envs\myenv\Scripts\uv.EXE
+ 
+ uv venv env --python cpython-3.11.15-windows-x86_64-none
+ 
+ uv install cpython-3.11.15-windows-x86_64-none
+ 
+ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
